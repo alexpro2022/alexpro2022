@@ -1,4 +1,3 @@
-<!--### Hi there 👋 -->
 <h1 align="center">
   Hi there, I'm Alex
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
@@ -14,6 +13,8 @@
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=drf)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/alexpro2022?tab=repositories&q=fastapi)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=flask)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=bot)
+
 <h2></h2>
 
 <h3 align="right">
@@ -23,6 +24,8 @@
 
 
 <!--
+### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=alexpro2022)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
