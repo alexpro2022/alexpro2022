@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   Hi there, I'm <a href="https://t.me/alexpro202">Alex</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+</h2>
 <h3 align="center">
   Welcome to my profile
 </h3>
