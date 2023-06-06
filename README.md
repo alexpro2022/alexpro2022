@@ -9,7 +9,7 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/alexpro2022?tab=repositories&q=python3)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=django)
-[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-88e86d?style=for-the-badge&logo=django&logoColor=white&color=3D9217&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=drf)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-88e86d?style=for-the-badge&logo=django&logoColor=white&color=3D9217&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=django-rest-framework)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/alexpro2022?tab=repositories&q=fastapi)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=flask)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=bot)
