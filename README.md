@@ -13,6 +13,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/alexpro2022?tab=repositories&q=fastapi)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=flask)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=bot)
+[![Parsing](https://img.shields.io/badge/Parsing-4f326c.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=parser)
 
 <h2></h2>
 
