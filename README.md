@@ -1,16 +1,15 @@
 <h2 align="center">
   Hi there, I'm <a href="https://t.me/alexpro202">Alex</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <br><br>
+  welcome to my profile
 </h2>
-<h3 align="center">
-  Welcome to my profile
-</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Links+to+my+projects:)](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/alexpro2022?tab=repositories&q=python3)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=django)
-[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=drf)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-88e86d?style=for-the-badge&logo=django&logoColor=white&color=88e86d&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=drf)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/alexpro2022?tab=repositories&q=fastapi)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=flask)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=bot)
