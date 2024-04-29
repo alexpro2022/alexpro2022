@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Links+to+my+projects:)](https://github.com/alexpro2022)
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/alexpro2022?tab=repositories&q=python3)
+<!--[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/alexpro2022?tab=repositories&q=python3)-->
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=django)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-88e86d?style=for-the-badge&logo=django&logoColor=white&color=3D9217&labelColor=gray)](https://github.com/alexpro2022?tab=repositories&q=django-rest-framework)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/alexpro2022?tab=repositories&q=fastapi)
@@ -15,6 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=telegram-bot)
 [![Parsing](https://img.shields.io/badge/Parsing-4f326c.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=parser)
 [![Тесты](https://img.shields.io/badge/Тесты-1c7092.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=test-task)
+[![Hackathons](https://img.shields.io/badge/Hackathons-89BA16.svg?style=for-the-badge&logo=&logoColor=white)](https://github.com/alexpro2022/hackathons/blob/main/README.md)
 
 <h2></h2>
 
